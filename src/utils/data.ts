@@ -6,7 +6,7 @@ import type { CollectionEntry, CollectionKey } from 'astro:content'
 import type { CardItemData } from '~/components/views/CardItem.astro'
 import type { GitHubView } from '~/types'
 
-const defaultCategory = '杂谈'
+const defaultCategory = '电影'
 
 type CollectionEntryList<K extends CollectionKey = CollectionKey> =
   CollectionEntry<K>[]
