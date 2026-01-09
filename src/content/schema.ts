@@ -156,9 +156,9 @@ export const postSchema = z.object({
     ),
   category: z
     .string()
-    .default('杂谈')
+    .default('电影')
     .describe(
-      'Specifies the category of the post. If not provided, defaults to "杂谈".'
+      'Specifies the category of the post. If not provided, defaults to "电影".'
     ),
 })
 
