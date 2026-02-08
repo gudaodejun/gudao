@@ -185,7 +185,7 @@ export const FEATURES: Features = {
   search: [
     true,
     {
-      includes: ['杂文', '电影'],
+      includes: ['blog'],
       filter: true,
       navHighlight: true,
       batchLoadSize: [true, 5],
