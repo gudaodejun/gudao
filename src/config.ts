@@ -3,9 +3,9 @@ import type { Site, Ui, Features } from './types'
 export const SITE: Site = {
   website: 'https://gudao.pages.dev/',
   base: '/',
-  title: '孤岛',
-  description: "孤岛的博客",
-  author: '孤岛',
+  title: '云舒',
+  description: "云舒的博客",
+  author: '云舒',
   lang: 'zh-Hans',
   ogLocale: 'zh_CN',
   imageDomains: ['cdn.jsdelivr.net', '*.unsplash.com', 'github.com'],
