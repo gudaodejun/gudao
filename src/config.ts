@@ -31,7 +31,7 @@ export const UI: Ui = {
       displayMode: 'alwaysText',
       text: '诗歌',
     },
-/**
+
     {
        path: '/highlights',
        title: 'Highlights',
@@ -39,7 +39,7 @@ export const UI: Ui = {
        text: 'Highlights',
        icon: 'i-ri-screenshot-line',
      },
-**/
+
     {
       path: '/photos',
       title: 'Photos',
@@ -47,7 +47,7 @@ export const UI: Ui = {
       text: '摄影',
       icon: 'i-ri-camera-ai-line',
     },
-
+/**
     {
       path: '/shorts',
       title: 'Poetry',
@@ -55,7 +55,7 @@ export const UI: Ui = {
       text: '诗歌2',
       icon: 'i-meteor-icons-grid',
     },
-
+**/
     {
       path: '/changelog',
       title: 'TV',
