@@ -47,15 +47,15 @@ export const UI: Ui = {
       text: '摄影',
       icon: 'i-ri-camera-ai-line',
     },
-/**
+
     {
       path: '/shorts',
-      title: 'Shorts',
+      title: 'Poetry',
       displayMode: 'iconToTextOnMobile',
-      text: 'Shorts',
+      text: '诗歌',
       icon: 'i-meteor-icons-grid',
     },
-*/
+
     {
       path: '/changelog',
       title: 'TV',
