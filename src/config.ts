@@ -156,7 +156,7 @@ export const FEATURES: Features = {
   share: [
     true,
     {
-      twitter: true,
+      twitter: false,
       bluesky: false,
       mastodon: false,
       facebook: false,
