@@ -31,7 +31,7 @@ export const UI: Ui = {
       displayMode: 'alwaysText',
       text: '诗歌',
     },
-
+/**
     {
        path: '/releases',
        title: '诗歌',
@@ -39,7 +39,7 @@ export const UI: Ui = {
        text: '诗歌',
        icon: 'i-ri-screenshot-line',
      },
-
+**/
     {
       path: '/photos',
       title: 'Photos',
@@ -65,24 +65,24 @@ export const UI: Ui = {
     },
   ],
   socialLinks: [
-    {
-      link: 'https://b23.tv/Cwj3dcP',
-      title: 'BiliBili Profile',
-      displayMode: 'alwaysIcon',
-      icon: 'i-ri-bilibili-fill',
-    },
+    //{
+    //  link: 'https://b23.tv/Cwj3dcP',
+    //  title: 'BiliBili Profile',
+    //  displayMode: 'alwaysIcon',
+    //  icon: 'i-ri-bilibili-fill',
+    //},
     // {
     //   link: 'https://x.com/astrodotbuild',
     //   title: 'Astro on Twitter',
     //   displayMode: 'alwaysIcon',
     //   icon: 'i-ri-twitter-x-fill',
     // },
-    // {
-    //   link: 'https://bsky.app/profile/astro.build',
-    //   title: 'Astro on Bluesky',
-    //   displayMode: 'alwaysIcon',
-    //   icon: 'i-meteor-icons-bluesky',
-    // },
+     {
+       link: 'https://bsky.app/profile/yunshuyimeng.bsky.social',
+       title: '云舒 on Bluesky',
+       displayMode: 'alwaysIcon',
+       icon: 'i-meteor-icons-bluesky',
+     },
   ],
   navBarLayout: {
     left: [],
