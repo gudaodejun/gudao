@@ -15,7 +15,7 @@ export const UI: Ui = {
   internalNavs: [
     {
       path: '/',
-      title: '主页',
+      title: 'Home',
       displayMode: 'alwaysText',
       text: '主页',
     },
@@ -52,7 +52,7 @@ export const UI: Ui = {
       path: '/shorts',
       title: 'Poetry',
       displayMode: 'iconToTextOnMobile',
-      text: '诗歌',
+      text: '诗歌2',
       icon: 'i-meteor-icons-grid',
     },
 
