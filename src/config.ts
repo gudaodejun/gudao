@@ -33,10 +33,10 @@ export const UI: Ui = {
     },
 
     {
-       path: '/highlights',
-       title: 'Highlights',
+       path: '/releases',
+       title: '诗歌',
        displayMode: 'iconToTextOnMobile',
-       text: 'Highlights',
+       text: '诗歌',
        icon: 'i-ri-screenshot-line',
      },
 
