@@ -27,7 +27,7 @@ export const UI: Ui = {
     },
     {
       path: '/projects',
-      title: 'Projects',
+      title: 'Poetry',
       displayMode: 'alwaysText',
       text: '诗歌',
     },
@@ -58,7 +58,7 @@ export const UI: Ui = {
 */
     {
       path: '/changelog',
-      title: 'Changelog',
+      title: 'TV',
       displayMode: 'iconToTextOnMobile',
       text: '电影',
       icon: 'i-ri-film-line',
